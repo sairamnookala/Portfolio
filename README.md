@@ -1,4 +1,3 @@
-#Portfolio
 My Personal Portfolio showcasing my skills and knowledge
 
 
